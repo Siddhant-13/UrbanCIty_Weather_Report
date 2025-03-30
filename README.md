@@ -15,7 +15,7 @@ The dataset used in this project consists of historical weather records containi
 
 This data was preprocessed to handle missing values, normalize temperature variations, and segment the data based on seasonal changes.
 
-## Solution Approach
+## Solution Approach 
 The project is divided into the following key steps:
 
 ### 1. Data Preprocessing
